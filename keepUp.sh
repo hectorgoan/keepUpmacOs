@@ -9,7 +9,7 @@ brew doctor
 # Check for updates
 brew update
 # Upgrade all packages from brew and taps
-brew upgrade --cask
+brew upgrade && brew upgrade --cask
 # Clean up all the mess
 brew cleanup
 
