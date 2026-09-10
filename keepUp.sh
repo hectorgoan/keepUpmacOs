@@ -1,5 +1,5 @@
 #!/bin/bash
-#Auto updater/upgrader/cleaner for macOS systems (with homebrew installed)
+#Auto updater/upgrader/cleaner for macOS systems (with homebrew || cleanmymac cli installed)
 
 # First we search if tool for updating casks is installed
 
